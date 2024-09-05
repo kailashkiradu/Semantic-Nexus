@@ -1,6 +1,6 @@
 ---
 
-## **Semantic Nexus - AI-Powered Search Engine**
+**Semantic Nexus - AI-Powered Search Engine**
 
 **Semantic Nexus** is a search engine built using **LangChain** and the **Hugging Face API**. It enhances the user experience by processing natural language queries, offering contextual understanding, multilingual support, and domain-specific knowledge retrieval.
 
